@@ -1,6 +1,6 @@
-# VERSION 1.1
-# DOCKER-VERSION  1.2.0
-# AUTHOR:         Richard Lee <lifuzu@gmail.com>
+# VERSION 1.2
+# DOCKER-VERSION  1.9.1
+# AUTHOR:         Fuzu Li <lifuzu@gmail.com>
 # DESCRIPTION:    Service-java8 Image Container
 
 FROM dockerbase/service

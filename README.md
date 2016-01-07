@@ -25,6 +25,6 @@ This repository contains **Dockerbase** of [Service-java8](http://www.oracle.com
     Description:	Ubuntu 14.04.1 LTS
     git version 1.9.1
     OpenSSH_6.6.1p1 Ubuntu-2ubuntu2, OpenSSL 1.0.1f 6 Jan 2014
-    java version "1.8.0_20"
-    Java(TM) SE Runtime Environment (build 1.8.0_20-b26)
-    Java HotSpot(TM) 64-Bit Server VM (build 25.20-b23, mixed mode)
+    java version "1.8.0_65"
+    Java(TM) SE Runtime Environment (build 1.8.0_65-b17)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.65-b01, mixed mode)

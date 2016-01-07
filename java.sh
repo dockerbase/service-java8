@@ -1,7 +1,7 @@
 # Information Of Package
-JDK_VERSION=jdk1.8.0_20
-JDK_PACKAGE=jdk-8u20-linux-x64.tar.gz
-JDK_LINK=http://download.oracle.com/otn-pub/java/jdk/8u20-b26/$JDK_PACKAGE
+JDK_VERSION=jdk1.8.0_65
+JDK_PACKAGE=jdk-8u65-linux-x64.tar.gz
+JDK_LINK=http://download.oracle.com/otn-pub/java/jdk/8u65-b17/$JDK_PACKAGE
 
 # Java
 cd /tmp && \
